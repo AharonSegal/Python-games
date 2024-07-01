@@ -1,0 +1,30 @@
+{
+  "Programming Languages": [
+    "python",
+    "javascript",
+    "java",
+    "cplusplus",
+    "ruby"
+  ],
+  "Data Structures": [
+    "array",
+    "hashtable",
+    "queue",
+    "stack",
+    "tree"
+  ],
+  "Networking": [
+    "router",
+    "firewall",
+    "protocol",
+    "ethernet",
+    "packet"
+  ],
+  "Software Development": [
+    "algorithm",
+    "debugging",
+    "framework",
+    "repository",
+    "agile"
+  ]
+}
